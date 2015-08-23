@@ -1,5 +1,5 @@
 ## akvasanth jmjplsubmission
-## Generating matrix inverse using cache
+## Generating matrix inverse using cache 
 ## Sample output shown below the functions
 
 makeCacheMatrix <- function(x = matrix()) {
